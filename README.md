@@ -1,4 +1,4 @@
-# Exploratory Data Analyses - Course Projekt 1
+# Exploratory Data Analyses - Course Project 1
 
 ## Description of data set:
 - Dataset: Electric power consumption [20Mb]
